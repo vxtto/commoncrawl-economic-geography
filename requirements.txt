@@ -1,0 +1,14 @@
+jupyter
+pandas
+matplotlib
+warcio
+lxml
+bs4
+scikit-learn
+torch
+transformers
+sentence_transformers
+cdx_toolkit
+pyarrow
+s3fs
+accelerate
